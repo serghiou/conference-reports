@@ -2,34 +2,34 @@
 
 <div align="justify">
 
-### Date
+## Date
 
 24-26 June, 2018
 
-### Setting
+## Setting
 
 Seattle, WA, USA
 
 
-### Summary
+## Summary
 
-#### TL;DR
+### TL;DR
 
-#### Cochrane's next generation evidence systems
+### Cochrane's next generation evidence systems
 
-#### NLM Town Hall: Future of scholarly communication and HSR
+### NLM Town Hall: Future of scholarly communication and HSR
 
-#### Moving beyond p < 0.05; making health services relevant to the C-suite
+### Moving beyond p < 0.05; making health services relevant to the C-suite
 
-#### Machine learning and applications to health services and health care
+### Machine learning and applications to health services and health care
 
-#### Application of learning algorithms to understand complex healthcare data
+### Application of learning algorithms to understand complex healthcare data
 
-#### Empirical evidence on the impact of incentives on consumer health behaviors and health care decisions
+### Empirical evidence on the impact of incentives on consumer health behaviors and health care decisions
 
 Use of pricing insentives to drive healthy behviors. The researchers tested whether financial incentives can improve adherence to exercise advice in those with ischemic heart disease and found a substantial positive effect. 
 
-#### Overall
+### Overall
 
 
 </div>
