@@ -31,8 +31,7 @@ This primarily referred to using financial insentives to promote healthy behavio
 
 ### Using and improving EHRs for care delivery and communication
 
-
-
+This session illustrated use-cases of electronic health records (EHRs) for health services research. Ragnhildur Bjarnadottir illustrated how she used text mining to analyze nursing notes and measure knowledge of fall-related factors. 
 
 ### Overall
 
