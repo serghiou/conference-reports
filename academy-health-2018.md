@@ -16,7 +16,7 @@ Seattle, WA, USA
 ### TL;DR
 
 * Cochrane is using technological innovations to substantially improve the process of creating systematic reviews
-* Better partnerships between academia and industry can substantially help both worlds
+* Better partnerships between academia and industry can substantially facilitate innovation
 * Scientists in health services research are becoming incresingly interested in machine learning techniques
 
 ### Cochrane's next generation evidence systems
