@@ -35,7 +35,7 @@ This session featured members of the C-suite, such as Russell Holman (LifePoint 
 
 ### Luncheon plenary part 1:  Lunch and Award presentations
 
-Richard Frank of Harvard University received the distinguished Investigator award. Mitesh Patel of University of Pennsylvania received the Alice S. Hersh New Investigator Award. Patel's work on using behavioural interventions to improve health sounded astonishingly interesting.
+Richard Frank of Harvard University received the distinguished Investigator award. Mitesh Patel of University of Pennsylvania received the Alice S. Hersh New Investigator Award. Patel's work on using behavioural interventions to improve health sounded phenomenal.
 
 ### Luncheon plenary part 2: Innovation and the future
 
