@@ -39,7 +39,7 @@ Richard Frank of Harvard University received the distinguished Investigator awar
 
 ### Luncheon plenary part 2: Innovation and the future
 
-A discussion between Porsche Everson (Relevant Strategies), Dave Chokshi (NYC Health) and Robert Califf (Verily, Duke, ex-FDA Chair) on what is innovation and how this can be stimulated. Prof. Califf was asked to comment on the recent initiative by Amazon, Berkshire Hathaway and Chase, which he said has the opportunity to substantially change primary care, even though specialty care would be harder to change. I was very interested in his note that each user of Google Search participates on average in 3 randomized controlled trials - I wish we could be doing the same with our healthcare systems so that everything we do is part of a trial.
+A discussion between Porsche Everson (Relevant Strategies), Dave Chokshi (NYC Health) and Robert Califf (Verily, Duke, ex-FDA Chair) on what is innovation and how this can be stimulated. A lot was said about the difficulty of innovating within the current research environment and the usefulness of partnerships with the industry. Prof. Califf was asked to comment on the recent initiative by Amazon, Berkshire Hathaway and Chase, which he said has the opportunity to substantially change primary care, even though specialty care would be harder to change. I was very interested in his note that each user of Google Search participates on average in 3 randomized controlled trials - I wish we could be doing the same with our healthcare systems so that everything we do is part of a trial and that we use every opportunity available to us to learn effectively.
 
 ### Machine learning and applications to health services and health care
 
