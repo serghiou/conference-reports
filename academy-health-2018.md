@@ -18,6 +18,8 @@ Seattle, WA, USA
 * Cochrane is using technological innovations to substantially improve the process of creating systematic reviews
 * Better partnerships between academia and industry can substantially facilitate innovation
 * Scientists in health services research are becoming incresingly interested in machine learning techniques
+* A lot of exciting opportunities for a constantly learning health system, but not much convicing progress thus far
+* Some very interesting attempts to use nudges to promote healthy behavior
 
 ### Cochrane's next generation evidence systems
 
